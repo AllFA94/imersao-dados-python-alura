@@ -1,0 +1,78 @@
+O que é Python? Um guia completo para iniciar nessa linguagem de programação.
+
+https://www.alura.com.br/artigos/python?srsltid=AfmBOopKFd2TEkItYx_N_pBDJaaciKhL31l7Hl0kmRjCfZ8UMk9qIdz8
+
+
+Como criar um repositório remoto em GitHub.
+
+https://www.alura.com.br/artigos/criando-repositorio-remoto-github
+
+
+Pandas Python: o que é, para que serve e como instalar
+
+https://www.alura.com.br/artigos/pandas-o-que-e-para-que-serve-como-instalar
+
+
+Python: a origem do nome
+
+https://www.alura.com.br/artigos/python-origem-do-nome
+
+
+Acesse o Guia de Mergulho
+
+https://grupoalura.notion.site/Imers-o-Dados-com-Python-2026-Guia-de-Mergulho-2d9379bdd09b81fe89f8ff4b3f3f4aee
+
+
+Pandas: limpeza e tratamento de dados
+
+https://www.alura.com.br/conteudo/pandas-limpeza-tratamento-dados
+
+
+Mergulhe a fundo em carreiras tech com o Techguide.
+
+https://techguide.sh/pt-BR/path/data-science/
+
+
+Como remover linhas e colunas no Pandas.
+
+https://www.alura.com.br/artigos/como-remover-linhas-e-colunas-no-pandas
+
+
+Estatística descritiva: o que é e quais os tipos de medidas de tendência central.
+
+https://www.alura.com.br/artigos/estatistica-descritiva
+
+
+Histograma: o que é, exemplos, gráficos e tipos
+
+https://www.alura.com.br/artigos/o-que-e-um-histograma
+
+
+Melhorando a análise com o Boxplot
+
+https://www.alura.com.br/artigos/melhorando-a-analise-com-o-boxplot
+
+
+Visualizando informações com um gráfico.
+
+https://www.alura.com.br/artigos/visualizando-informacoes-com-um-grafico
+
+
+Data Visualization: conhecendo as bibliotecas do Python.
+
+https://www.alura.com.br/artigos/data-visualization-conhecendo-bibliotecas-python
+
+
+Streamlit: como compartilhar sua aplicação de dados facilmente
+
+https://www.alura.com.br/artigos/streamlit-compartilhando-sua-aplicacao-de-dados-sem-dor-de-cabeca
+
+
+Como escolher o tipo de visualização de dados para análise.
+
+https://www.alura.com.br/artigos/tipo-de-visualizacao-de-dados
+
+
+O que é Data Science: conceitos, aplicações práticas e um bate papo sobre carreira.
+
+https://www.alura.com.br/artigos/o-que-e-data-science
